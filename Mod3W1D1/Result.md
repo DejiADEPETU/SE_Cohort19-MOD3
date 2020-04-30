@@ -2,16 +2,16 @@
 ## HomeWork-1 Day-1 Submissions:
 
 ### 1. Codecademy (LearnJava/hello-world) 
-![#1](1.PNG)
+![#1](1.png)
 
 ### 2. Intellij (community edition)
-![#2](2.PNG)
+![#2](2.png)
 
 ### 3. A Java program that takes two numbers as input and display the product of two numbers.
-![#3](3.PNG)
+![#3](3.png)
 
 ### 4. A Java program that reads a number in inches, converts it to meters
-![#4](4.PNG)
+![#4](4.png)
 
 
 # Issues:
